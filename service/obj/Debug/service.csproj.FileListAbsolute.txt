@@ -1,0 +1,84 @@
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\service.dll.config
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\service.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\service.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\data.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\domain.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\EntityFramework.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\data.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\domain.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\EntityFramework.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\obj\Debug\service.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\service\obj\Debug\service.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\obj\Debug\service.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\obj\Debug\service.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\service.dll.config
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\service.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\service.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\data.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\domain.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\EntityFramework.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\data.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\domain.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\EntityFramework.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\service.dll.config
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\service.dll
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\service.pdb
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\data.dll
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\domain.dll
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\EntityFramework.dll
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\data.pdb
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\domain.pdb
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\EntityFramework.xml
+C:\Users\waelh\Desktop\frigo\pi\service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\waelh\Desktop\frigo\pi\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+C:\Users\waelh\Desktop\frigo\pi\service\obj\Debug\service.dll
+C:\Users\waelh\Desktop\frigo\pi\service\obj\Debug\service.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\service.dll.config
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\service.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\service.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\data.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\domain.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\EntityFramework.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\data.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\domain.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\EntityFramework.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\obj\Debug\service.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\service\obj\Debug\service.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\service.dll.config
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\service.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\service.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\data.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\domain.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\EntityFramework.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\EntityFramework.SqlServer.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\data.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\domain.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\EntityFramework.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\bin\Debug\EntityFramework.SqlServer.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\obj\Debug\service.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\service\obj\Debug\service.pdb
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\service.dll.config
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\service.dll
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\service.pdb
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\data.dll
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\domain.dll
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\EntityFramework.dll
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\EntityFramework.SqlServer.dll
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\data.pdb
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\domain.pdb
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\EntityFramework.xml
+E:\Esprit\Projects\dotnet\pi\service\bin\Debug\EntityFramework.SqlServer.xml
+E:\Esprit\Projects\dotnet\pi\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+E:\Esprit\Projects\dotnet\pi\service\obj\Debug\service.dll
+E:\Esprit\Projects\dotnet\pi\service\obj\Debug\service.pdb

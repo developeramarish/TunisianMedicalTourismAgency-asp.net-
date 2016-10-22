@@ -1,0 +1,94 @@
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\data.dll.config
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\data.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\data.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\domain.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\EntityFramework.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\MySql.Data.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\MySql.Data.Entity.EF6.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\MySql.Fabric.Plugin.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\domain.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\EntityFramework.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\obj\Debug\data.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\data\obj\Debug\data.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\data.dll.config
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\data.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\data.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\domain.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\EntityFramework.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\MySql.Data.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\domain.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\EntityFramework.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\obj\Debug\data.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\data\obj\Debug\data.pdb
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\data.dll.config
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\data.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\data.pdb
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\domain.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\EntityFramework.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\MySql.Data.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\domain.pdb
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\EntityFramework.xml
+C:\Users\waelh\Desktop\frigo\pi\data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\waelh\Desktop\frigo\pi\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\waelh\Desktop\frigo\pi\data\obj\Debug\data.dll
+C:\Users\waelh\Desktop\frigo\pi\data\obj\Debug\data.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\data.dll.config
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\data.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\data.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\domain.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\EntityFramework.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\MySql.Data.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\domain.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\EntityFramework.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\obj\Debug\data.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\data\obj\Debug\data.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\data.dll.config
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\data.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\data.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\domain.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\EntityFramework.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\EntityFramework.SqlServer.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\MySql.Data.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\MySql.Fabric.Plugin.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\domain.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\EntityFramework.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\bin\Debug\EntityFramework.SqlServer.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\obj\Debug\data.Migrations.jpadb.resources
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\obj\Debug\data.csproj.GenerateResource.Cache
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\obj\Debug\data.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\data\obj\Debug\data.pdb
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\data.dll.config
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\data.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\data.pdb
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\domain.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\EntityFramework.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\MySql.Data.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\domain.pdb
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\EntityFramework.xml
+E:\Esprit\Projects\dotnet\pi\data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Esprit\Projects\dotnet\pi\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+E:\Esprit\Projects\dotnet\pi\data\obj\Debug\data.Migrations.jpadb.resources
+E:\Esprit\Projects\dotnet\pi\data\obj\Debug\data.csproj.GenerateResource.Cache
+E:\Esprit\Projects\dotnet\pi\data\obj\Debug\data.dll
+E:\Esprit\Projects\dotnet\pi\data\obj\Debug\data.pdb

@@ -1,0 +1,564 @@
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\csc.exe
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\vbc.exe
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\VBCSCompiler.exe
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Web.dll.config
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Web.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Web.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Antlr3.Runtime.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\domain.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\EntityFramework.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\EntityFramework.SqlServer.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.ServiceLocation.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.Configuration.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.Mvc.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Newtonsoft.Json.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Owin.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\service.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Helpers.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Mvc.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Optimization.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Razor.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.WebPages.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.WebPages.Razor.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\WebActivatorEx.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\WebGrease.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\data.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\domain.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\service.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.ServiceLocation.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.ServiceLocation.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.Configuration.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.Mvc.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Helpers.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Mvc.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Optimization.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.Razor.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.WebPages.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\System.Web.WebPages.Razor.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Antlr3.Runtime.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Newtonsoft.Json.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\EntityFramework.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\EntityFramework.SqlServer.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\data.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\obj\Debug\Web.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\obj\Debug\Web.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\MySql.Data.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\MySql.Data.Entity.EF6.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\Web\bin\MySql.Fabric.Plugin.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\csc.exe
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\vbc.exe
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Web.dll.config
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Web.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Web.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Antlr3.Runtime.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\data.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\domain.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\EntityFramework.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\MySql.Data.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\MySql.Fabric.Plugin.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Newtonsoft.Json.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Owin.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\service.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Helpers.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Mvc.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Optimization.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Razor.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.WebPages.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\WebActivatorEx.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\WebGrease.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\data.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\domain.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\service.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Helpers.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Mvc.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Optimization.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.Razor.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.WebPages.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Antlr3.Runtime.pdb
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Newtonsoft.Json.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\EntityFramework.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\obj\Debug\Web.dll
+C:\Users\Sabrine\Desktop\4 ERP-BI4\dotNet\pi\Web\obj\Debug\Web.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\csc.exe
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\vbc.exe
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Web.dll.config
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Web.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Web.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Antlr3.Runtime.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\data.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\domain.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\EntityFramework.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\MySql.Data.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\MySql.Fabric.Plugin.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Newtonsoft.Json.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Owin.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\service.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Helpers.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Mvc.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Optimization.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Razor.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.WebPages.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\WebActivatorEx.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\WebGrease.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\data.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\domain.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\service.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Helpers.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Mvc.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Optimization.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.Razor.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.WebPages.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Antlr3.Runtime.pdb
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Newtonsoft.Json.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\EntityFramework.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\waelh\Desktop\frigo\pi\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\waelh\Desktop\frigo\pi\Web\obj\Debug\Web.dll
+C:\Users\waelh\Desktop\frigo\pi\Web\obj\Debug\Web.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\csc.exe
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\vbc.exe
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Web.dll.config
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Web.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Web.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Antlr3.Runtime.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\data.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\domain.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\EntityFramework.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\EntityFramework.SqlServer.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\MySql.Data.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\MySql.Data.Entity.EF6.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\MySql.Fabric.Plugin.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Newtonsoft.Json.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Owin.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\service.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Helpers.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Mvc.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Optimization.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Razor.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.WebPages.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\WebActivatorEx.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\WebGrease.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\data.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\domain.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\service.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Helpers.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Mvc.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Optimization.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.Razor.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.WebPages.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Antlr3.Runtime.pdb
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Newtonsoft.Json.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\EntityFramework.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\EntityFramework.SqlServer.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\obj\Debug\Web.dll
+C:\Users\SOPHIE\Documents\Visual Studio 2015\Projects\frigo\pi\Web\obj\Debug\Web.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\csc.exe
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\vbc.exe
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\VBCSCompiler.exe
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Web.dll.config
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Web.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Web.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Antlr3.Runtime.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\data.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\domain.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\EntityFramework.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\EntityFramework.SqlServer.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\log4net.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Google.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\MySql.Data.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\MySql.Data.Entity.EF6.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\MySql.Fabric.Plugin.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Newtonsoft.Json.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Owin.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\PayPal.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Rotativa.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\service.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Helpers.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Mvc.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Optimization.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Razor.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.WebPages.Deployment.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.WebPages.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.WebPages.Razor.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\WebActivatorEx.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\WebGrease.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\data.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\domain.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\service.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\log4net.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.ServiceLocation.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Newtonsoft.Json.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\PayPal.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Helpers.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Mvc.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Optimization.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.Razor.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.WebPages.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.WebPages.Deployment.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\System.Web.WebPages.Razor.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Antlr3.Runtime.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\EntityFramework.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\EntityFramework.SqlServer.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Google.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\obj\Debug\Web.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\obj\Debug\Web.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\Web\bin\Jmelosegui.Mvc.GoogleMap.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\csc.exe
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\vbc.exe
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\VBCSCompiler.exe
+E:\Esprit\Projects\dotnet\pi\Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Esprit\Projects\dotnet\pi\Web\bin\Web.dll.config
+E:\Esprit\Projects\dotnet\pi\Web\bin\Web.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Web.pdb
+E:\Esprit\Projects\dotnet\pi\Web\bin\Antlr3.Runtime.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\data.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\domain.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\EntityFramework.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\EntityFramework.SqlServer.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Jmelosegui.Mvc.GoogleMap.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\log4net.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.SignalR.Owin.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.ServiceLocation.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.Mvc.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\MySql.Data.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\MySql.Data.Entity.EF6.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\MySql.Fabric.Plugin.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Newtonsoft.Json.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Owin.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\PayPal.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\Rotativa.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\service.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Helpers.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Mvc.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Optimization.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Razor.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.WebPages.Deployment.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.WebPages.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.WebPages.Razor.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\WebActivatorEx.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\WebGrease.dll
+E:\Esprit\Projects\dotnet\pi\Web\bin\data.pdb
+E:\Esprit\Projects\dotnet\pi\Web\bin\domain.pdb
+E:\Esprit\Projects\dotnet\pi\Web\bin\service.pdb
+E:\Esprit\Projects\dotnet\pi\Web\bin\log4net.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.SignalR.Owin.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.ServiceLocation.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.Mvc.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Newtonsoft.Json.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\PayPal.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Helpers.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Mvc.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Optimization.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.Razor.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.WebPages.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.WebPages.Deployment.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\System.Web.WebPages.Razor.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Antlr3.Runtime.pdb
+E:\Esprit\Projects\dotnet\pi\Web\bin\EntityFramework.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\EntityFramework.SqlServer.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Esprit\Projects\dotnet\pi\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Esprit\Projects\dotnet\pi\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\Esprit\Projects\dotnet\pi\Web\obj\Debug\Web.dll
+E:\Esprit\Projects\dotnet\pi\Web\obj\Debug\Web.pdb

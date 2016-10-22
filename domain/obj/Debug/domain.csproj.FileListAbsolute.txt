@@ -1,0 +1,40 @@
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\domain.dll.config
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\domain.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\domain.pdb
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\EntityFramework.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\EntityFramework.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\obj\Debug\domain.csprojResolveAssemblyReference.cache
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\obj\Debug\domain.dll
+c:\users\marwen-pc\documents\visual studio 2015\Projects\pi\domain\obj\Debug\domain.pdb
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\domain.dll.config
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\domain.dll
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\domain.pdb
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\EntityFramework.dll
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\EntityFramework.xml
+C:\Users\waelh\Desktop\frigo\pi\domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\waelh\Desktop\frigo\pi\domain\obj\Debug\domain.csprojResolveAssemblyReference.cache
+C:\Users\waelh\Desktop\frigo\pi\domain\obj\Debug\domain.dll
+C:\Users\waelh\Desktop\frigo\pi\domain\obj\Debug\domain.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\domain.dll.config
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\domain.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\domain.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\EntityFramework.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\EntityFramework.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\obj\Debug\domain.dll
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\obj\Debug\domain.pdb
+D:\4GL\PiDotnet\FridayMorning\frigo\frigo\pi\domain\obj\Debug\domain.csprojResolveAssemblyReference.cache
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\domain.dll.config
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\domain.dll
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\domain.pdb
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\EntityFramework.dll
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\EntityFramework.xml
+E:\Esprit\Projects\dotnet\pi\domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Esprit\Projects\dotnet\pi\domain\obj\Debug\domain.csprojResolveAssemblyReference.cache
+E:\Esprit\Projects\dotnet\pi\domain\obj\Debug\domain.dll
+E:\Esprit\Projects\dotnet\pi\domain\obj\Debug\domain.pdb
