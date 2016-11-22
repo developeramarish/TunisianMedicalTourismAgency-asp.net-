@@ -33,7 +33,7 @@ namespace Web.Controllers
                 smtp.Port = 587;
                 smtp.UseDefaultCredentials = false;
                 smtp.Credentials = new System.Net.NetworkCredential
-                ("ttma.esprit@gmail.com", "22207556");// Enter seders User name and password
+                ("xxx@gmail.com", "xxx");// Enter seders User name and password
                 smtp.EnableSsl = true;
                 smtp.Send(mail);
                 return View("Indexx", _objModelMail);
